@@ -78,3 +78,9 @@ public class Day2 {
 		System.out.println(total);
 	}
 }
+
+
+
+//		Loop through
+//		turn array to a string
+//		split back into its own array
