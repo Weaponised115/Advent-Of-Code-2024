@@ -7,7 +7,7 @@ import java.util.regex.*;
 public class DayThree {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		File file = new File("C:/Users/The Wraith/eclipse-workspace/AOCDay3/src/file3.txt");
+		File file = new File("file3.txt");
 		Scanner scanner = new Scanner(file);
 		StringBuilder str = new StringBuilder();
 		
