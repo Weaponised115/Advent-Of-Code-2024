@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Day2 {
 
 	public static void main(String[] args) throws FileNotFoundException {
-		File file = new File("C:/Users/The Wraith/eclipse-workspace/AOCDay2/src/file2.txt");
+		File file = new File("file2.txt");
 		Scanner scanner = new Scanner(file);
 		StringBuilder str = new StringBuilder();
 		ArrayList<int[]> List = new ArrayList<int[]>();
